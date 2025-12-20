@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Lalman 👋
 
-<!--
-**lalman-dv/lalman-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Framer Motion**
 
-Here are some ideas to get you started:
+Crafting modern, responsive, and recruiter‑friendly web experiences with a focus on clean design, accessibility, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔖 Tech Badges
+
+![React](https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Styled%20with-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Animated%20with-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 About Me
+- 🎯 Self‑taught developer from India, started my coding journey in late 2024.
+- 💻 Passionate about building **intuitive UIs** and solving problems through code.
+- 📚 Continuously learning new technologies and refining my portfolio.
+- 🌱 Aspiring to join a team where I can grow, collaborate, and craft meaningful digital experiences.
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React, TailwindCSS, Framer Motion  
+- **Tools:** Git, GitHub, VS Code, Figma, Notion  
+- **Build & Deploy:** Vite, Netlify, Vercel  
+
+---
+
+## 📂 Featured Projects
+Here are some of my repositories:
+
+- **[MyPortfolio](https://github.com/lalman-dv/MyPortfolio)**  
+  Personal portfolio showcasing projects, skills, and branding.  
+  🔗 [Live Demo](https://lalman-rho.vercel.app)
+
+- **[Netflix Clone](https://github.com/lalman-dv/NetflixClone-react-tailwind)**  
+  Responsive Netflix UI built with React + TailwindCSS.
+
+- **[YouTube Clone](https://github.com/lalman-dv/YoutubeClone)**  
+  YouTube‑style video player with sidebar navigation and responsive layouts.
+
+- **[AI Resume Studio](https://github.com/lalman-dv/AI-Resume-Studio)** *(in progress)*  
+  Resume builder powered by AI, designed for recruiter‑friendly outputs.
+
+---
+
+## 💡 Passions
+- ✨ Designing clean, intuitive user experiences  
+- 🧩 Problem solving with elegant, maintainable code  
+- 📖 Continuous learning and adapting to new tools  
+- 🚀 Building a personal brand through projects and portfolio  
+
+---
+
+## 📈 Journey
+- **Nov 2024:** Started exploring coding with HTML & CSS  
+- **Mar 2025:** Transitioned into structured learning with React, TypeScript, TailwindCSS  
+- **Late 2025:** Built projects & portfolio, refined branding  
+- **Future:** Excited to join a team and contribute to real‑world projects  
+
+---
+
+## 📬 Contact
+- 📧 Email: **lalman.dev7@gmail.com**  
+- 💼 LinkedIn: [lalman-lalman](https://www.linkedin.com/in/lalman-lalman-34490a163/)  
+- 🐦 Twitter: [@imchaudhary2](https://x.com/imchaudhary2)  
+- 🌐 Portfolio: [lalman-rho.vercel.app](https://lalman-rho.vercel.app)
+
+---
+
+⭐️ From [lalman-dv](https://github.com/lalman-dv)
