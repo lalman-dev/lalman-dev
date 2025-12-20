@@ -70,7 +70,7 @@ Here are some of my repositories:
 
 ## 📬 Contact
 - 📧 Email: **lalman.dev7@gmail.com**  
-- 💼 LinkedIn: [lalman-lalman](https://www.linkedin.com/in/lalman-dev/)  
+- 💼 LinkedIn: [Lalman](https://www.linkedin.com/in/lalman-dev/)  
 - 🐦 Twitter: [@imchaudhary2](https://x.com/imchaudhary2)  
 - 🌐 Portfolio: [lalman-rho.vercel.app](https://lalman-rho.vercel.app)
 
