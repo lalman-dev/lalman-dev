@@ -37,17 +37,17 @@ Crafting modern, responsive, and recruiter‑friendly web experiences with a foc
 ## 📂 Featured Projects
 Here are some of my repositories:
 
-- **[MyPortfolio](https://github.com/lalman-dv/MyPortfolio)**  
+- **[MyPortfolio](https://github.com/lalman-dev/MyPortfolio)**  
   Personal portfolio showcasing projects, skills, and branding.  
   🔗 [Live Demo](https://lalman-rho.vercel.app)
 
-- **[Netflix Clone](https://github.com/lalman-dv/NetflixClone-react-tailwind)**  
+- **[Netflix Clone](https://github.com/lalman-dev/NetflixClone-react-tailwind)**  
   Responsive Netflix UI built with React + TailwindCSS.
 
-- **[YouTube Clone](https://github.com/lalman-dv/YoutubeClone)**  
+- **[YouTube Clone](https://github.com/lalman-dev/YoutubeClone)**  
   YouTube‑style video player with sidebar navigation and responsive layouts.
 
-- **[AI Resume Studio](https://github.com/lalman-dv/AI-Resume-Studio)** *(in progress)*  
+- **[AI Resume Studio](https://github.com/lalman-dev/AI-Resume-Studio)** *(in progress)*  
   Resume builder powered by AI, designed for recruiter‑friendly outputs.
 
 ---
@@ -70,10 +70,10 @@ Here are some of my repositories:
 
 ## 📬 Contact
 - 📧 Email: **lalman.dev7@gmail.com**  
-- 💼 LinkedIn: [lalman-lalman](https://www.linkedin.com/in/lalman-lalman-34490a163/)  
+- 💼 LinkedIn: [lalman-lalman](https://www.linkedin.com/in/lalman-dev/)  
 - 🐦 Twitter: [@imchaudhary2](https://x.com/imchaudhary2)  
 - 🌐 Portfolio: [lalman-rho.vercel.app](https://lalman-rho.vercel.app)
 
 ---
 
-⭐️ From [lalman-dv](https://github.com/lalman-dv)
+⭐️ From [lalman-dv](https://github.com/lalman-dev)
