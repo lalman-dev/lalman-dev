@@ -7,7 +7,7 @@ Crafting modern, responsive, and recruiter‑friendly web experiences with a foc
 ---
 ## 🔖 Skills Showcase
 
-![React](https://img.shields.io/badge/React-Expertise-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -70,9 +70,9 @@ Here are some of my repositories:
 ## 📬 Contact
 - 📧 Email: **lalman.dev7@gmail.com**  
 - 💼 LinkedIn: [Lalman](https://www.linkedin.com/in/lalman-dev/)  
-- 🐦 Twitter: [@imchaudhary2](https://x.com/imchaudhary2)  
-- 🌐 Portfolio: [lalman-rho.vercel.app](https://lalman-rho.vercel.app)
+- 🐦 Twitter: [@Lalman](https://x.com/imchaudhary2)  
+- 🌐 Portfolio: [lalman](https://lalman-rho.vercel.app)
 
 ---
 
-⭐️ From [lalman-dv](https://github.com/lalman-dev)
+⭐️ From [Lalman](https://github.com/lalman-dev)
