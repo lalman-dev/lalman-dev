@@ -60,8 +60,9 @@ Here are some of my repositories:
 ---
 
 ## 📈 Journey
-- **Nov 2024:** Started exploring coding with HTML & CSS  
-- **Mar 2025:** Transitioned into structured learning with React, TypeScript, TailwindCSS  
+- **Mar 2025:** Started exploring coding with HTML & CSS
+- **June 2025:** Found a passion and started learning Javascript 
+- **Oct 2025:** Transitioned into structured learning with React, TypeScript, TailwindCSS  
 - **Late 2025:** Built projects & portfolio, refined branding  
 - **Future:** Excited to join a team and contribute to real‑world projects  
 
