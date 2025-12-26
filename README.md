@@ -1,6 +1,6 @@
 # Hi, I'm Lalman 👋
 
-🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Framer Motion**
+🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Motion(Framer-Motion)**
 
 Crafting modern, responsive, and recruiter‑friendly web experiences with a focus on clean design, accessibility, and performance.
 
@@ -10,7 +10,7 @@ Crafting modern, responsive, and recruiter‑friendly web experiences with a foc
 ![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion%20Animations-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -27,7 +27,7 @@ Crafting modern, responsive, and recruiter‑friendly web experiences with a foc
 
 ## 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3  
-- **Frameworks & Libraries:** React, TailwindCSS, Framer Motion  
+- **Frameworks & Libraries:** React, TailwindCSS, Motion (Framer-Motion) 
 - **Tools:** Git, GitHub, VS Code, Figma, Notion  
 - **Build & Deploy:** Vite, Netlify, Vercel  
 
