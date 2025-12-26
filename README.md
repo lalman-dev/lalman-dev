@@ -2,6 +2,8 @@
 
 🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Motion(Framer-Motion)**
 
+🌐 **Portfolio:** [Lalman](https://lalman-rho.vercel.app)
+
 Crafting modern, responsive, and recruiter‑friendly web experiences with a focus on clean design, accessibility, and performance.
 
 ---
