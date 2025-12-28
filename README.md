@@ -10,6 +10,7 @@ Crafting modern, responsive, and user‑friendly web experiences with a focus on
 <a href="https://lalman.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-lalman.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
+  ---
 ![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
