@@ -16,6 +16,7 @@ Crafting modern, responsive, and user‑friendly web experiences with a focus on
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Motion](https://img.shields.io/badge/Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=808080&colorA=808080&colorB=0055FF)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
 
