@@ -3,6 +3,7 @@
 🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Motion(Framer-Motion)**
 
 🌐 **Portfolio:** [https://www.lalman.dev](https://www.lalman.dev)
+
 <a href="https://lalman.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-lalman.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
