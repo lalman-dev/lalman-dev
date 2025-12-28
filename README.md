@@ -7,7 +7,7 @@
 <a href="https://lalman.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-lalman.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
----
+
 
 Crafting modern, responsive, and user‑friendly web experiences with a focus on clean design, accessibility, and performance.
 ---
