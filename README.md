@@ -5,21 +5,11 @@
 🌐 **Portfolio:** [https://www.lalman.dev](https://www.lalman.dev)
 
 Crafting modern, responsive, and user‑friendly web experiences with a focus on clean design, accessibility, and performance.
-
-
-<p align="center">
-  <a href="https://lalman.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-lalman.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
 ---
 ## 🔖 Skills Showcase
-
+<a href="https://lalman.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-lalman.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
 ![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -31,7 +21,7 @@ Crafting modern, responsive, and user‑friendly web experiences with a focus on
 ---
 
 ## 🌟 About Me
-- 🎯 Self‑taught developer from India, started my coding journey in late 2024.
+- 🎯 Self‑taught developer from India, started my coding journey in early 2025.
 - 💻 Passionate about building **intuitive UIs** and solving problems through code.
 - 📚 Continuously learning new technologies and refining my portfolio.
 - 🌱 Aspiring to join a team where I can grow, collaborate, and craft meaningful digital experiences.
@@ -41,7 +31,7 @@ Crafting modern, responsive, and user‑friendly web experiences with a focus on
 ## 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3  
 - **Frameworks & Libraries:** React, TailwindCSS, Motion (Framer-Motion) 
-- **Tools:** Git, GitHub, VS Code, Figma, Notion  
+- **Tools:** Git, GitHub, Redux toolkit, VS Code, Figma, Notion  
 - **Build & Deploy:** Vite, Netlify, Vercel  
 
 ---
@@ -51,7 +41,7 @@ Here are some of my repositories:
 
 - **[MyPortfolio](https://github.com/lalman-dev/MyPortfolio)**  
   Personal portfolio showcasing projects, skills, and branding.  
-  🔗 [Live Demo](https://lalman-rho.vercel.app)
+  🔗 [Live Demo](https://www.lalman.dev)
 
 - **[Netflix Clone](https://github.com/lalman-dev/NetflixClone-react-tailwind)**  
   Responsive Netflix UI built with React + TailwindCSS.
@@ -59,8 +49,8 @@ Here are some of my repositories:
 - **[YouTube Clone](https://github.com/lalman-dev/YoutubeClone)**  
   YouTube‑style video player with sidebar navigation and responsive layouts.
 
-- **[AI Resume Studio](https://github.com/lalman-dev/AI-Resume-Studio)** *(in progress)*  
-  Resume builder powered by AI, designed for recruiter‑friendly outputs.
+- **[AI Resume Studio](https://github.com/lalman-dev/AI-Resume-Studio)**  
+  Resume builder powered by AI, designed for ATS‑friendly outputs.
 
 ---
 
@@ -73,7 +63,7 @@ Here are some of my repositories:
 ---
 
 ## 📈 Journey
-- **Mar 2025:** Started exploring coding with HTML & CSS
+- **Feb 2025:** Started exploring coding with HTML & CSS
 - **June 2025:** Found a passion and started learning Javascript 
 - **Oct 2025:** Transitioned into structured learning with React, TypeScript, TailwindCSS  
 - **Late 2025:** Built projects & portfolio, refined branding  
@@ -85,7 +75,7 @@ Here are some of my repositories:
 - 📧 Email: **lalman.dev7@gmail.com**  
 - 💼 LinkedIn: [Lalman](https://www.linkedin.com/in/lalman-dev/)  
 - 🐦 Twitter: [@Lalman](https://x.com/imchaudhary2)  
-- 🌐 Portfolio: [lalman](https://lalman-rho.vercel.app)
+- 🌐 Portfolio: [lalman](https://www.lalman.dev)
 
 ---
 
