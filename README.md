@@ -2,10 +2,21 @@
 
 🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Motion(Framer-Motion)**
 
-🌐 **Portfolio:** [Lalman](https://lalman-rho.vercel.app)
+🌐 **Portfolio:** [https://www.lalman.dev](https://www.lalman.dev)
 
-Crafting modern, responsive, and recruiter‑friendly web experiences with a focus on clean design, accessibility, and performance.
+Crafting modern, responsive, and user‑friendly web experiences with a focus on clean design, accessibility, and performance.
 
+
+<p align="center">
+  <a href="https://lalman.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-lalman.dev-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 ---
 ## 🔖 Skills Showcase
 
