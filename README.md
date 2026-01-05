@@ -1,40 +1,48 @@
 # Hi, I'm Lalman 👋
 
-🚀 **Frontend Developer | React • TypeScript • TailwindCSS • Motion (Framer Motion)**
+🚀 Frontend Developer
+React • TypeScript • Next.js • TailwindCSS • Motion (Framer Motion)
 
 I build modern, accessible, and performance-focused web interfaces.
-Comfortable working with real-world codebases, APIs, and open-source projects.
+Comfortable working with real-world codebases, APIs, and production-style UI patterns.
 
 🌐 **Portfolio:** [https://www.lalman.dev](https://www.lalman.dev)
 
 ---
 
 ## 🧠 What I Focus On
-- Building clean, maintainable UI components
-- Type-safe frontend architecture with TypeScript
-- Accessibility (semantic HTML, ARIA, keyboard navigation)
-- Integrating APIs and handling real data flows
-- Improving developer experience through clear UI & docs
+
+  -  Writing clean, maintainable, and reusable UI components
+
+  -  Type-safe frontend architecture using TypeScript
+
+  -  Accessibility-first development (semantic HTML, ARIA, keyboard navigation)
+
+  -  Integrating APIs and managing real data flows
+
+  -  Improving developer experience through clear UI patterns and documentation
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, HTML5, CSS3  
-**Frameworks:** React, Next.js, TailwindCSS  
-**Animation:** Motion (Framer Motion)  
-**State & Data:** Redux Toolkit, REST APIs  
+
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+**Frameworks & Libraries:** React, Next.js, TailwindCSS
+**Animation:** Motion (Framer Motion)
+**State & Data:** Redux Toolkit, REST APIs
 **Tools:** Git, GitHub, Vercel, Netlify, Figma, VS Code  
 
 ---
 
-## 🔖 Skills Showcase
-![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=808080&colorA=808080&colorB=0055FF)
-![Redux](https://img.shields.io/badge/Redux-Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🔖 Skills Snapshot
+
+-  ![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+-  ![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- ![Motion](https://img.shields.io/badge/Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=808080&colorA=808080&colorB=0055FF)
+- ![Redux](https://img.shields.io/badge/Redux-Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -72,7 +80,7 @@ Feature-rich UI clone with real TMDB API data
 
 ---
 
-## 💡 Passions
+## 💡 What Drives Me
 -  Designing clean, intuitive user experiences  
 -  Problem solving with elegant, maintainable code  
 -  Continuous learning and adapting to new tools  
@@ -87,4 +95,4 @@ Feature-rich UI clone with real TMDB API data
 
 ---
 
-⭐️ From [Lalman](https://github.com/lalman-dev)
+⭐️ From [Lalman](https://lalman.dev)
