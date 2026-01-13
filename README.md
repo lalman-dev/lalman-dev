@@ -1,91 +1,103 @@
-# Hi, I'm Lalman 👋
+# Hi, I’m Lalman 👋
 
-🚀 Frontend Developer
-React • TypeScript • Next.js • TailwindCSS • Motion (Framer Motion)
+🚀 Frontend Engineer (React / Next.js)  
+TypeScript • App Router • SSR/CSR • Tailwind CSS • Framer Motion
 
-I build modern, accessible, and performance-focused web interfaces.
-Comfortable working with real-world codebases, APIs, and production-style UI patterns.
+I build **production-ready, performance-focused web interfaces** with a strong emphasis on
+rendering strategy, predictable state, accessibility, and real-world UX constraints.
 
-🌐 **Portfolio:** [https://www.lalman.dev](https://www.lalman.dev)
+Comfortable owning frontend features end-to-end — from architecture decisions to polished UI
+and resilient error/loading states.
+
+🌐 **Portfolio:** https://www.lalman.dev  
+📍 Open to remote-first startup roles
 
 ---
 
 ## 🧠 What I Focus On
 
-  -  Writing clean, maintainable, and reusable UI components
-
-  -  Type-safe frontend architecture using TypeScript
-
-  -  Accessibility-first development (semantic HTML, ARIA, keyboard navigation)
-
-  -  Integrating APIs and managing real data flows
-
-  -  Improving developer experience through clear UI patterns and documentation
+- Designing **scalable frontend architecture** using React and Next.js (App Router)
+- Choosing the right **rendering strategy (SSR / CSR / hybrid)** for performance and UX
+- Building **accessible, resilient UIs** (semantic HTML, keyboard support, UX states)
+- Managing **real-world client-side state and data flows**
+- Writing **clean, maintainable, and review-friendly code**
+- Shipping features that balance **developer experience and user experience**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Frameworks & Libraries:** React, Next.js, TailwindCSS
-**Animation:** Motion (Framer Motion)
-**State & Data:** Redux Toolkit, REST APIs
-**Tools:** Git, GitHub, Vercel, Netlify, Figma, VS Code  
+**Core:**  
+JavaScript (ES6+), TypeScript, React, Next.js (App Router)
+
+**Styling & UI:**  
+Tailwind CSS, responsive layouts, accessible components
+
+**Animation:**  
+Framer Motion (UI transitions, micro-interactions)
+
+**State & Data:**  
+Client-side state management, REST API integration
+
+**Tools:**  
+Git, GitHub, Vercel, Netlify, Figma, VS Code
 
 ---
 
-## 🔖 Skills Snapshot
+## 📌 Flagship Projects
 
-- ![React](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-Proficiency-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-- ![Motion](https://img.shields.io/badge/Motion-Animations-0055FF?style=for-the-badge&logo=framer&logoColor=808080&colorA=808080&colorB=0055FF)
-- ![Redux](https://img.shields.io/badge/Redux-Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🔹 Hacker News Portal
+**Production-style Next.js application**
+
+- Built with **Next.js App Router + TypeScript**
+- Server-side rendering for fast initial load
+- Client-side interactivity for search, pagination, and filters
+- Clear handling of loading, empty, and error states
+- Designed to handle unreliable external APIs gracefully
+
+🔗 Live: https://hn-news-two.vercel.app  
+🔗 Code: https://github.com/lalman-dev/hn-news
 
 ---
-
-## 📂 Selected Projects
-
-### 🔹 HackerNews Portal
-Production-style news reader with API integration  
-- Built with Next.js + TypeScript  
-- Server/client data handling  
-- Pagination and UI state management
-
-- Live demo: https://hn-news-two.vercel.app/
 
 ### 🔹 AI Resume Studio
-AI-powered resume builder focused on ATS-friendly output  
-- React + TypeScript + TailwindCSS  
-- Real form state, validations, and UI logic  
-- Designed for real-world usability
+**Full-stack resume builder with strong frontend focus**
 
-- Live demo: https://ai-resume-studio-snowy.vercel.app/
+- React + TypeScript + Tailwind CSS
+- Complex form workflows and predictable UI state
+- Authentication flows and protected routes
+- Hands-on experience debugging frontend–backend integration issues
 
----
-
-## 🌍 Open Source & Learning
-- Actively exploring and contributing to open-source projects
-- Interested in improving documentation, examples, and frontend UX
-- Comfortable reading unfamiliar codebases and making targeted improvements
+🔗 Live: https://ai-resume-studio-snowy.vercel.app  
+🔗 Code: https://github.com/lalman-dev/AI-Resume-Studio
 
 ---
 
-## 💡 What Drives Me
--  Designing clean, intuitive user experiences  
--  Problem solving with elegant, maintainable code  
--  Continuous learning and adapting to new tools  
+## 🧩 How I Work
+
+- Think in **components, data flow, and UX states**
+- Prefer **boring, reliable solutions** over unnecessary complexity
+- Comfortable reading and improving unfamiliar codebases
+- Communicate clearly in async, remote-first environments
+- Bias toward shipping, then iterating
 
 ---
 
-## 📬 Contact
--  Email: **lalman.dev7@gmail.com**  
--  Portfolio: [lalman](https://www.lalman.dev)
--  LinkedIn: [Lalman](https://www.linkedin.com/in/lalman-dev/)  
--  Twitter: [@Lalman](https://x.com/imchaudhary2)  
+## 🌱 Currently Exploring
+
+- Advanced rendering patterns in Next.js
+- Performance profiling and optimization
+- Better patterns for frontend architecture in startup codebases
 
 ---
 
-⭐️ From [Lalman](https://lalman.dev)
+## 📬 Get in Touch
+
+- 📧 Email: **lalman.dev7@gmail.com**
+- 🌐 Portfolio: https://www.lalman.dev
+- 💼 LinkedIn: https://www.linkedin.com/in/lalman-dev
+- 🐦 Twitter/X: https://x.com/imchaudhary2
+
+---
+
+⭐️ Thanks for stopping by — feel free to explore my repositories
