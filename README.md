@@ -3,7 +3,7 @@
 🚀 Frontend Engineer (React / Next.js)  
 TypeScript • App Router • SSR/CSR • Tailwind CSS • Framer Motion
 
-I build **production-ready, performance-focused web interfaces** with a strong emphasis on
+I build **production-grade, performance-focused web interfaces** with a strong emphasis on
 rendering strategy, predictable state, accessibility, and real-world UX constraints.
 
 Comfortable owning frontend features end-to-end — from architecture decisions to polished UI
@@ -47,7 +47,7 @@ Git, GitHub, Vercel, Netlify, Figma, VS Code
 ## 📌 Flagship Projects
 
 ### 🔹 Hacker News Portal
-**Production-style Next.js application**
+**Production-grade Next.js application**
 
 - Built with **Next.js App Router + TypeScript**
 - Server-side rendering for fast initial load
@@ -84,10 +84,9 @@ Git, GitHub, Vercel, Netlify, Figma, VS Code
 ---
 
 ## 🌱 Currently Exploring
-
-- Advanced rendering patterns in Next.js
-- Performance profiling and optimization
-- Better patterns for frontend architecture in startup codebases
+- Advanced rendering patterns in Next.js (App Router)
+- Frontend performance profiling and optimization
+- Better architectural patterns for early-stage startup codebases
 
 ---
 
