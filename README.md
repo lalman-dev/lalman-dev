@@ -10,7 +10,7 @@ Comfortable owning frontend features end-to-end — from architecture decisions 
 and resilient error/loading states.
 
 🌐 **Portfolio:** https://www.lalman.dev  
-📍 Open to remote-first startup roles
+📍 Open to remote roles
 
 ---
 
