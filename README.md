@@ -1,4 +1,4 @@
-# Hi, I’m Lalman 👋
+# Hello, I’m Lalman 👋
 
 🚀 Frontend Engineer (React / Next.js)  
 TypeScript • App Router • SSR/CSR • Tailwind CSS • Framer Motion
