@@ -92,6 +92,7 @@ Streaming responses, structured outputs, retry logic, and graceful fallback stat
 <img src="https://streak-stats.demolab.com?user=lalman-dev&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=a0a0b8&dates=a0a0b8&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
 
 </div>
+
 ---
 
 ## Contribution Graph
