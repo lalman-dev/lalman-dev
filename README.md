@@ -1,187 +1,109 @@
 <div align="center">
 
-# Lalman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Lalman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Frontend-Focused&descAlignY=58&descColor=a0a0b8" width="100%" />
 
-### Frontend-first Full Stack Engineer
+[![Portfolio](https://img.shields.io/badge/Portfolio-lalman.dev-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://lalman.dev)
+[![UAE Profile](https://img.shields.io/badge/UAE%20Profile-lalman.dev%2Fuae-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://lalman.dev/uae)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalman-dev)
+[![Email](https://img.shields.io/badge/Email-lalman.dev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lalman.dev7@gmail.com)
 
-*Building scalable, production-ready web applications with React, Next.js, TypeScript, Node.js, and modern application architecture.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lalman.dev-black?style=flat-square&logo=vercel)](https://www.lalman.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lalman-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev-181717?style=flat-square&logo=github)](https://github.com/lalman-dev)
-[![Email](https://img.shields.io/badge/Email-lalman.dev7@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:lalman.dev7@gmail.com)
-
-📍 India • Open to Remote • Open to UAE Relocation 🇦🇪
+📍 Abu Dhabi, UAE &nbsp;·&nbsp; Available Immediately &nbsp;·&nbsp; Open to Full-Time Roles 🇦🇪
 
 </div>
 
 ---
 
-# About Me
+## About
 
-I'm a **Frontend-first Full Stack Engineer** focused on building modern web applications that combine exceptional user experience with scalable architecture.
+Full-Stack Engineer with a frontend-first approach — strongest in React, Next.js, and TypeScript, with enough backend depth to own features end to end. I build production-grade applications with real architecture decisions: SSR/CSR strategy, state machine design, auth systems, database modeling, and AI integration.
 
-While frontend engineering is my strongest area, I enjoy building complete products—from responsive interfaces to backend APIs, authentication, databases, and AI-powered workflows.
-
-I believe software should be:
-
-- Fast
-- Accessible
-- Reliable
-- Maintainable
-- Easy for teams to extend
-
-I prefer solving real business problems over chasing unnecessary complexity.
+Currently building AI-powered web features at **FlyRank AI**.
 
 ---
 
-# Engineering Focus
+## Stack
 
-### Frontend
-
-- React
-- Next.js App Router
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Responsive Design
-- Accessibility
-- Component Architecture
-
-### Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-- API Design
-- Server-side Rendering
-
-### Architecture
-
-- Predictable state management
-- Rendering strategy (SSR / CSR / Hybrid)
-- Event-driven systems
-- Error handling
-- Loading & empty states
-- Performance optimization
-- Scalable component systems
+```typescript
+const stack = {
+  frontend:     ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+  backend:      ["Node.js", "Express", "NestJS", "MongoDB", "Mongoose", "JWT"],
+  auth:         ["Auth.js v5", "Google OAuth", "Credentials", "bcrypt", "JWT"],
+  ai:           ["OpenAI API", "Anthropic API", "Streaming", "Structured Outputs"],
+  tools:        ["Git", "Vercel", "Redux Toolkit", "Vite", "Jest"],
+}
+```
 
 ---
 
-# Tech Stack
+## Projects
 
-| Category | Technologies |
-|----------|--------------|
-| Frontend | React, Next.js, TypeScript, JavaScript |
-| Styling | Tailwind CSS, CSS3, Responsive Design |
-| Backend | Node.js, Express.js, MongoDB |
-| APIs | REST APIs, JWT Authentication |
-| Tools | Git, GitHub, Vercel, ESLint, Prettier, Figma |
-| Animation | Framer Motion |
+### 🤖 AI Agent Workflow Visualizer
+> Real-time visualisation platform for AI multi-agent execution
 
----
+Reducer-based state machine simulating parallel execution, failure/retry sequences, cancellation, and streaming partial outputs. Mock SSE engine enables full frontend testing with zero backend dependency.
 
-# Featured Projects
+**React · TypeScript · Tailwind CSS · Vite**
 
-## 🤖 AI Agent Workflow Visualizer
-
-A production-style visualization system that demonstrates how modern AI agents execute complex workflows in real time.
-
-Highlights:
-
-- Event-driven architecture
-- Streaming UI updates
-- Reducer-based state management
-- Parallel task execution
-- Failure & retry visualization
-- Incremental rendering
-
-**Stack**
-
-React • TypeScript • Tailwind CSS • Event-driven Architecture
+[![Live](https://img.shields.io/badge/Live-agent--visualizer.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://agent-visualizer.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2Fagent--visualizer-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/agent-visualizer)
 
 ---
 
-## 📰 Hacker News Portal
+### 🚗 Ryvo — Vehicle Booking Platform
+> Full-stack premium vehicle booking platform
 
-Production-grade Next.js application demonstrating server rendering, client-side interactivity, loading states, and resilient UI architecture.
+28 vehicles across 7 categories. Google OAuth + email/password auth via Auth.js v5. Booking lifecycle (pending → confirmed → cancelled) with ownership-verified cancellation API. Premium dark/light theme system via CSS custom properties.
 
-Highlights:
+**Next.js · TypeScript · MongoDB · Auth.js · Tailwind CSS · Framer Motion**
 
-- Next.js App Router
-- Server-side Rendering
-- Search & Pagination
-- Error Recovery
-- Performance-focused UX
+[![Live](https://img.shields.io/badge/Live-ryvo--lux.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://ryvo-lux.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2Fryvo-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/ryvo)
 
 ---
 
-## 📄 AI Resume Studio
+### 📰 Hacker News Portal
+> Performance-first Next.js reader with 98/99 Lighthouse scores
 
-A full-stack AI-powered resume builder demonstrating complete frontend-backend integration.
+Deliberate SSR/CSR split per page — SSR for content (fast first paint), CSR for search (eliminates server round trips). Recursive comment thread rendering with correct ARIA at every nesting depth.
 
-Highlights:
+**Next.js · TypeScript · Tailwind CSS v4 · Framer Motion**
 
-- Authentication
-- Protected Routes
-- Multi-step Forms
-- REST APIs
-- MongoDB
-- Express.js
-- AI Integration
+[![Live](https://img.shields.io/badge/Live-hn--news--two.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://hn-news-two.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2Fhn--news-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/hn-news)
 
 ---
 
-# How I Build Software
+### 📄 AI Resume Studio
+> Full-stack AI resume builder with streaming OpenAI integration
 
-I enjoy designing software that's easy for both users and developers.
+Streaming responses, structured outputs, retry logic, and graceful fallback states. Redux Toolkit multi-step editing flows. Fixed a JWT inconsistency across 12 API routes with one global Axios interceptor.
 
-My engineering principles include:
+**React · TypeScript · Node.js · Express · MongoDB · OpenAI API**
 
-- Clean architecture over clever architecture
-- Reusable components over duplicated code
-- Explicit state management
-- Accessibility by default
-- Production-ready error handling
-- Performance-conscious rendering
-- Maintainable codebases that scale with teams
+[![Live](https://img.shields.io/badge/Live-ai--resume--studio.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://ai-resume-studio-snowy.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2FAI--Resume--Studio-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/AI-Resume-Studio)
 
 ---
 
-# Current Focus
+## GitHub Stats
 
-I'm actively looking for opportunities where I can contribute to modern product teams while continuing to grow as a Full Stack Engineer.
+<div align="center">
 
-Current interests include:
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lalman-dev&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalman-dev&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F&langs_count=6" />
 
-- Next.js
-- React Performance
-- AI-powered Applications
-- Full Stack Product Development
-- Modern Frontend Architecture
+</div>
 
 ---
 
-# Open to Opportunities
+## Contribution Graph
 
-I'm currently open to:
-
-- 🇦🇪 UAE Opportunities
-- Remote Roles
-- Frontend Engineering
-- Full Stack Engineering
-- Product-focused Teams
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalman-dev&bg_color=0A0A0F&color=a0a0b8&line=6366F1&point=6366F1&hide_border=true" width="100%" />
 
 ---
 
 <div align="center">
 
-### Let's build software people enjoy using.
-
-🌐 https://www.lalman.dev
-
-📧 lalman.dev7@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%" />
 
 </div>
