@@ -89,8 +89,8 @@ Streaming responses, structured outputs, retry logic, and graceful fallback stat
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lalman-dev&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalman-dev&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lalman-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalman-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F&langs_count=6&hide=html,css" />
 
 </div>
 
