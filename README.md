@@ -89,11 +89,9 @@ Streaming responses, structured outputs, retry logic, and graceful fallback stat
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lalman-dev&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F&count_private=true" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lalman-dev&layout=compact&hide_border=true&title_color=6366F1&text_color=a0a0b8&bg_color=0A0A0F&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=lalman-dev&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=a0a0b8&dates=a0a0b8&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
 
 </div>
-
 ---
 
 ## Contribution Graph
