@@ -98,7 +98,7 @@ Streaming responses, structured outputs, retry logic, and graceful fallback stat
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalman-dev&bg_color=0A0A0F&color=a0a0b8&line=6366F1&point=6366F1&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalman-dev&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&area_color=6366F1&hide_border=true" width="100%" />
 
 ---
 
