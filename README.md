@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalman-dev)
 [![Email](https://img.shields.io/badge/Email-lalman.dev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lalman.dev7@gmail.com)
 
-📍 Abu Dhabi, UAE &nbsp;·&nbsp; Available Immediately &nbsp;·&nbsp; Open to Full-Time Roles 🇦🇪
+📍 Dubai, UAE &nbsp;·&nbsp; Available Immediately &nbsp;·&nbsp; Open to Full-Time Roles 🇦🇪
 
 </div>
 
