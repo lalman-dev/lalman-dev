@@ -1,108 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Lalman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Frontend-Focused&descAlignY=58&descColor=a0a0b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=140&section=header&text=Lalman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Frontend-Focused&descAlignY=58&descColor=a0a0b8" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lalman.dev-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://lalman.dev)
-[![UAE Profile](https://img.shields.io/badge/UAE%20Profile-lalman.dev%2Fuae-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://lalman.dev/uae)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalman-dev)
-[![Email](https://img.shields.io/badge/Email-lalman.dev7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lalman.dev7@gmail.com)
+<a href="https://lalman.dev"><img src="https://img.shields.io/badge/Portfolio-lalman.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/lalman-dev"><img src="https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:lalman.dev7@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-📍 Dubai, UAE &nbsp;·&nbsp; Available Immediately &nbsp;·&nbsp; Open to Full-Time Roles 🇦🇪
+📍 Open to relocation — UAE &nbsp;·&nbsp; 🌍 Also open to remote (EU/US) &nbsp;·&nbsp; 🟢 Available immediately
 
 </div>
 
----
+<br/>
 
-## About
+## 👋 About
 
-Full-Stack Engineer with a frontend-first approach — strongest in React, Next.js, and TypeScript, with enough backend depth to own features end to end. I build production-grade applications with real architecture decisions: SSR/CSR strategy, state machine design, auth systems, database modeling, and AI integration.
+Full-stack engineer, frontend-first — strongest in **React**, **Next.js**, and **TypeScript**, with enough backend depth (Node.js, NestJS, MongoDB, Prisma) to own a feature end to end, from schema to shipped UI. I care about the *why* behind a decision as much as the code — every project below has a documented architecture rationale, not just a feature list.
 
-Currently building AI-powered web features at **FlyRank AI**.
+Currently building AI-powered web features as a **Frontend Software Engineer Intern at FlyRank AI**. Self-taught — pivoted into software from a civil engineering background, and shipped five production apps along the way.
 
----
+<br/>
 
-## Stack
+## 🧰 Stack
 
 ```typescript
-const stack = {
-  frontend:     ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-  backend:      ["Node.js", "Express", "NestJS", "MongoDB", "Mongoose", "JWT"],
-  auth:         ["Auth.js v5", "Google OAuth", "Credentials", "bcrypt", "JWT"],
-  ai:           ["OpenAI API", "Anthropic API", "Streaming", "Structured Outputs"],
-  tools:        ["Git", "Vercel", "Redux Toolkit", "Vite", "Jest"],
-}
+const lalman = {
+  frontend:   ["React", "Next.js (App Router)", "TypeScript", "Tailwind CSS v4", "Framer Motion"],
+  backend:    ["Node.js", "Express", "NestJS", "MongoDB", "Mongoose", "Prisma", "GraphQL"],
+  auth:       ["Auth.js v5", "Google OAuth", "JWT", "bcrypt"],
+  payments:   ["Stripe Checkout", "Webhooks"],
+  ai:         ["OpenAI API", "Anthropic API", "Streaming", "Structured Outputs"],
+  tooling:    ["Git", "Vercel", "Redux Toolkit", "TanStack Query", "Vite", "Turborepo"],
+};
 ```
 
----
+<br/>
 
-## Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI Agent Workflow Visualizer
-> Real-time visualisation platform for AI multi-agent execution
+Real-time visualization platform for AI multi-agent execution — a reducer-based state machine simulating parallel task execution, failure/retry sequences, cancellation, and streaming partial outputs. Event-sourced replay engine with a DAG view built on `dagre`.
 
-Reducer-based state machine simulating parallel execution, failure/retry sequences, cancellation, and streaming partial outputs. Mock SSE engine enables full frontend testing with zero backend dependency.
+`React` `TypeScript` `Tailwind CSS` `Vite`
 
-**React · TypeScript · Tailwind CSS · Vite**
+[🔗 Live](https://agent-visualizer.vercel.app) · [📦 Code](https://github.com/lalman-dev/agent-visualizer)
 
-[![Live](https://img.shields.io/badge/Live-agent--visualizer.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://agent-visualizer.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2Fagent--visualizer-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/agent-visualizer)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🚗 Ryvo — Vehicle Booking Platform
-> Full-stack premium vehicle booking platform
+Full-stack vehicle rental platform — 28 vehicles across 7 categories, Google OAuth + credentials auth, and a real **Stripe Checkout** payment flow where bookings only confirm once a webhook verifies payment, not on client redirect alone.
 
-28 vehicles across 7 categories. Google OAuth + email/password auth via Auth.js v5. Booking lifecycle (pending → confirmed → cancelled) with ownership-verified cancellation API. Premium dark/light theme system via CSS custom properties.
+`Next.js` `TypeScript` `MongoDB` `Stripe` `Auth.js`
 
-**Next.js · TypeScript · MongoDB · Auth.js · Tailwind CSS · Framer Motion**
+[🔗 Live](https://ryvo-lux.vercel.app) · [📦 Code](https://github.com/lalman-dev/ryvo)
 
-[![Live](https://img.shields.io/badge/Live-ryvo--lux.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://ryvo-lux.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2Fryvo-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/ryvo)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📰 Hacker News Portal
-> Performance-first Next.js reader with 98/99 Lighthouse scores
+Performance-first reader with a deliberate SSR/CSR split per page — SSR for content for a fast first paint, CSR for search to skip server round trips. Recursive comment threads with correct ARIA at every nesting depth.
 
-Deliberate SSR/CSR split per page — SSR for content (fast first paint), CSR for search (eliminates server round trips). Recursive comment thread rendering with correct ARIA at every nesting depth.
+`Next.js` `TypeScript` `Tailwind v4` `Framer Motion`
 
-**Next.js · TypeScript · Tailwind CSS v4 · Framer Motion**
+**99** Perf · **94** A11y · **100** Best Practices · **100** SEO
 
-[![Live](https://img.shields.io/badge/Live-hn--news--two.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://hn-news-two.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2Fhn--news-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/hn-news)
+[🔗 Live](https://hn-news-two.vercel.app) · [📦 Code](https://github.com/lalman-dev/hn-news)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📄 AI Resume Studio
-> Full-stack AI resume builder with streaming OpenAI integration
+Full-stack AI resume builder with streaming OpenAI responses, structured outputs, and graceful fallback states. Multi-step editing via Redux Toolkit; a v2 pass fixed 15+ client-side and 8 server-side issues across seven staged sessions.
 
-Streaming responses, structured outputs, retry logic, and graceful fallback states. Redux Toolkit multi-step editing flows. Fixed a JWT inconsistency across 12 API routes with one global Axios interceptor.
+`React` `Node.js` `Express` `MongoDB` `OpenAI API`
 
-**React · TypeScript · Node.js · Express · MongoDB · OpenAI API**
+[🔗 Live](https://ai-resume-studio-snowy.vercel.app) · [📦 Code](https://github.com/lalman-dev/AI-Resume-Studio)
 
-[![Live](https://img.shields.io/badge/Live-ai--resume--studio.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://ai-resume-studio-snowy.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-lalman--dev%2FAI--Resume--Studio-181717?style=flat-square&logo=github)](https://github.com/lalman-dev/AI-Resume-Studio)
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=lalman-dev&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=a0a0b8&dates=a0a0b8&currStreakNum=ffffff&sideNums=ffffff" width="100%" />
-
 </div>
 
----
-
-## Contribution Graph
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalman-dev&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&area_color=6366F1&hide_border=true" width="100%" />
+</div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%" />
+### 📬 Let's talk
+
+If you're building something that needs a frontend-first engineer who's comfortable going full-stack, [reach out](mailto:lalman.dev7@gmail.com) — I'm available now.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=90&section=footer" width="100%" />
 
 </div>
