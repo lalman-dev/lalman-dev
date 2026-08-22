@@ -46,6 +46,8 @@ Real-time visualization platform for AI multi-agent execution — a reducer-base
 
 `React` `TypeScript` `Tailwind CSS` `Vite`
 
+**100** Perf · **86** A11y · **100** Best Practices · **90** SEO · **2/2** Agentic Browsing
+
 [🔗 Live](https://agent-visualizer.vercel.app) · [📦 Code](https://github.com/lalman-dev/agent-visualizer)
 
 </td>
@@ -55,6 +57,8 @@ Real-time visualization platform for AI multi-agent execution — a reducer-base
 Full-stack vehicle rental platform — 28 vehicles across 7 categories, Google OAuth + credentials auth, and a real **Stripe Checkout** payment flow where bookings only confirm once a webhook verifies payment, not on client redirect alone.
 
 `Next.js` `TypeScript` `MongoDB` `Stripe` `Auth.js`
+
+**100** Perf · **95** A11y · **100** Best Practices · **100** SEO · **2/2** Agentic Browsing
 
 [🔗 Live](https://ryvo-lux.vercel.app) · [📦 Code](https://github.com/lalman-dev/ryvo)
 
@@ -79,6 +83,8 @@ Performance-first reader with a deliberate SSR/CSR split per page — SSR for co
 Full-stack AI resume builder with streaming OpenAI responses, structured outputs, and graceful fallback states. Multi-step editing via Redux Toolkit; a v2 pass fixed 15+ client-side and 8 server-side issues across seven staged sessions.
 
 `React` `Node.js` `Express` `MongoDB` `OpenAI API`
+
+**100** Perf · **95** A11y · **100** Best Practices · **100** SEO · **2/2** Agentic Browsing
 
 [🔗 Live](https://ai-resume-studio-snowy.vercel.app) · [📦 Code](https://github.com/lalman-dev/AI-Resume-Studio)
 
