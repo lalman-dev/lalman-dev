@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/lalman-dev"><img src="https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lalman.dev7@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-📍 Open to relocation — UAE &nbsp;·&nbsp; 🌍 Also open to remote (EU/US) &nbsp;·&nbsp; 🟢 Available immediately
+📍 Dubai  — UAE &nbsp;·&nbsp; 🌍 Also open to global remote roles &nbsp;·&nbsp; 🟢 Available immediately
 
 </div>
 
@@ -16,7 +16,7 @@
 
 Full-stack engineer, frontend-first — strongest in **React**, **Next.js**, and **TypeScript**, with enough backend depth (Node.js, NestJS, MongoDB, Prisma) to own a feature end to end, from schema to shipped UI. I care about the *why* behind a decision as much as the code — every project below has a documented architecture rationale, not just a feature list.
 
-Currently building AI-powered web features as a **Frontend Software Engineer Intern at FlyRank AI**. Self-taught — pivoted into software from a civil engineering background, and shipped five production apps along the way.
+Currently building AI-powered web features as a **Frontend Software Engineer Intern at FlyRank AI**. Self-taught — pivoted into software from a civil engineering background, and shipped multiple production apps along the way.
 
 <br/>
 
