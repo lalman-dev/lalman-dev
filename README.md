@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/lalman-dev"><img src="https://img.shields.io/badge/LinkedIn-lalman--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lalman.dev7@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-📍 Dubai  — UAE &nbsp;·&nbsp; 🌍 Also open to global remote roles &nbsp;·&nbsp; 🟢 Available immediately
+📍 Sharjah  — UAE &nbsp;·&nbsp; 🌍 Also open to global remote roles &nbsp;·&nbsp; 🟢 Available immediately
 
 </div>
 
